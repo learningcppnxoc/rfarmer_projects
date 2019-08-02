@@ -1,0 +1,35 @@
+C++ Session 2 Homework
+Question 1
+Which signed/unsigned data types can fully store the value 70,000?
+
+Question 2
+Which signed/unsigned data types can fully store the value of 3.14?
+
+Question 3
+Can -10 be signed? Why or why not?
+
+Question 4
+(a) Try to predict what this program will print.
+
+(b) Write and run the program, was your prediction correct?
+
+(c) Why did this happen?
+
+Question 5
+How would you fix the program from the previous question?
+
+Question 6
+What will this program print out to the console?
+
+Question 7
+What will this program print out to the console?
+
+Question 8
+What will this program print out to the console and why?
+
+Question 9
+What if the variable "a" in the previous question was 10.5 instead of 10.4?
+
+Question 10
+Rewrite the following program and replace the underscores with the most optimal data type.
+

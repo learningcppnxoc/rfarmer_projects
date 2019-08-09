@@ -44,7 +44,7 @@ int main() {
 	const std::string exclam = "!";
 	const std::string message = "Hello" + ", world" + exclam;
 
-4. What about this one? What if we change }} to };} in the third line from the end?
+4. Is the following program valid? If so, what does it do? If not, why not?
 
 #include <iostream>
 
@@ -55,6 +55,9 @@ int main() {
 	  std::cout << s << std::endl; }}
 	return 0;
 }
+
+5. What about this one? What if we change }} to };} in the third line from the end?
+
 
 */
 
